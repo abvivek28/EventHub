@@ -9,7 +9,7 @@ const e = require('express');
 const db = mysql.createConnection({
     host: 'localhost',
     user: 'root',
-    password: 'akka',      // use your MySQL password
+    password: '******',      // use your MySQL password
     database: 'booking'
 });
 
